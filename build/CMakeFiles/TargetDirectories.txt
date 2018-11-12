@@ -1,0 +1,3 @@
+/home/shomed/r/rasmusat/TDT4200final/TDT4200-Assignment-5/build/CMakeFiles/rebuild_cache.dir
+/home/shomed/r/rasmusat/TDT4200final/TDT4200-Assignment-5/build/CMakeFiles/gpurender.dir
+/home/shomed/r/rasmusat/TDT4200final/TDT4200-Assignment-5/build/CMakeFiles/edit_cache.dir
